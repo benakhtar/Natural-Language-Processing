@@ -1,2 +1,2 @@
-# Natural-language-Processing
+# Natural-Language-Processing
 Natural Language course assignments
